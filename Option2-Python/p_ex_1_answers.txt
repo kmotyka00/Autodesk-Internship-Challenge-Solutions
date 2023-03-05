@@ -1,0 +1,7 @@
+What kind of error handling would you implement?
+I implemented handling of wrong input to int() function to make sure that the string provided by the user is castable to integer.
+I have also implemented checking if operation key is available. 
+I would also implement spelling check to avoid error for wrong spelling of keys like 'opration' instead of 'operation'.
+
+What should be done about invalid entries?
+It depends. If we have a lot of entries then we can omit invalid entries but when we have little data we should find a way to make use of invalid entries (maybe if length looks like that '123y') we can assume that the user wanted to input '123' but it is dangerous solution.

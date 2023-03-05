@@ -1,0 +1,12 @@
+What kind of error handling would you implement?
+I would implement checking for user input and making sure that the provided number of points is a number.
+I would also implement checking if the points create triangle.
+
+How to validate that the triangle is valid?
+We have to make sure that all the points don't lie on one line. We can check if the area of the triangle is greater than 0.
+
+How to speed up the algorithm to avoid calculating all possible combinations?
+O(n^2) algorithm exists which:
+ 1. For each pair of points we constract a vertex v.
+ 2. We find the line through the third point which is vertically closest to v (thus we do not have to search all the points which reduces complexity).
+ 3. We calculate the area of this triangle and update smallest triangle if the area is smaller that previously searched.

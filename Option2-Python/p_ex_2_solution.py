@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 MIN_RANGE = -100
 MAX_RANGE = 100
 
-# TODO: CHECK IF THE POINTS CREATE A TRIANGLE (NOT IN ONE LINE OR STH)
-
 def smallest_triangle(points_number: int):
 
     points = generate_points(points_number)

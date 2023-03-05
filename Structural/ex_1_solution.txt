@@ -1,18 +1,31 @@
-1. Define the requirements and constraints for the chair design, including the desired weight, strength, materials, dimensions, and aesthetics.
+Algorithm:
 
-2. Determine the structural requirements for the chair, such as the number of legs, the shape and size of the backrest, and the dimensions and spacing of the bars.
+1. Define the requirements and constraints for the chair design:
+    desired weight,
+    strength, materials,
+    dimensions,
+    esthetics.
+
+2. Determine the structural requirements for the chair, such as:
+    the number of legs,
+    the shape and size of the backrest, 
+    the dimensions,
+    spacing of the bars.
 
 3. Develop an initial design for the chair using computer-aided design (CAD) software or by hand sketching. The design should include a 3D model of the chair with dimensions and annotations.
 
 4. Perform structural analysis on the initial design using finite element analysis (FEA) software or by hand calculations to verify that the chair meets the requirements and constraints.
 
-5. Identify areas of the chair that can be optimized for weight reduction or strength improvement, such as reducing the number or size of bars, changing the material, or modifying the shape of the backrest.
+5. Identify areas of the chair that can be optimized for weight reduction or strength improvement, such as:
+    reducing the number or size of bars,
+    changing the material,
+    modifying the shape of the backrest.
 
 6. Iterate the design process by making modifications to the initial design based on the results of the structural analysis and optimization.
 
-7. Prototype the design using rapid prototyping techniques or by hand fabrication using the chosen materials.
+7. Prototype the design using the chosen materials.
 
-8. Test the prototype for strength, stability, durability, and comfort. Collect feedback from test users on the chair's comfort and usability.
+8. Test the prototype. Collect feedback from test users.
 
 9. Evaluate the prototype and test results to identify areas for further optimization.
 
@@ -20,32 +33,31 @@
 
 11. Finalize the design and prepare for production, including creating production-ready CAD files and selecting suppliers for materials and fabrication.
 
-Here's a flowchart visualizing the steps of the algorithm:
 
-Chair Design Algorithm Flowchart
 
-Here's a sample result of the algorithm for a simple chair design:
+SAMPLE RESUlTS:
+
 
 Requirements and constraints:
 
 Weight: less than 10 kg
-Strength: able to support a weight of 100 kg
+Strength: able to support a weight of 80 kg
 Materials: steel bars and wooden seat
-Dimensions: 500 mm x 500 mm x 800 mm
-Aesthetics: simple and modern design
+Dimensions: 50 cm x 50 cm x 800 cm
+Appearance: modern design
+
 Structural requirements:
 
 Four legs with cross-bracing for stability
-Backrest made of two bars for support and comfort
-Seat made of wooden slats for comfort and breathability
+Seat made of wooden slats
+Backrest made of two bars
 Bars spaced evenly for aesthetics and comfort
-Initial design:
 
-Initial Chair Design
 
 Structural analysis:
 
 FEA results show that the chair meets the strength and stability requirements.
+
 Optimization:
 
 Modify the design to reduce weight by using thinner steel bars.
@@ -67,8 +79,7 @@ Evaluation:
 Test results and feedback show that the chair meets the requirements and constraints.
 Iterate design:
 
-Modify the design based on test results and feedback:
-Final Chair Design
+Modify the design based on test results and feedback: no need to take action
 
 Finalize design:
 Prepare production-ready CAD files.
